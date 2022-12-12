@@ -1,0 +1,3 @@
+This directory consists of the probability matrices made to analyse the number of the patients that have dibetes, hypertension, hyperlipidemia, metabilic syndrome, two of these disorder or all of these disorders with the development of liver steatosis and fibrosis.
+The variables were both dichotomous and thus they provide the values of the patients that either suffered these two diseases or not. We are able to get the percentage of the patients that have both the comorbidities and liver steatosis and fibrosis.
+The confusion matrix consists of the data for the diagnostic technique of ultrasound and liver biopsy. It was done to draw out the specificity, sensitivity, accuracy, PPV and NPV of ultrasound as compared to the liver biopsy.
