@@ -1,5 +1,7 @@
 This directory consists of the various figures generated to get the visual representation of the data. 
 
+The histograms were made to check the distribution of the variables such as Age, BMI and Obesity Duration. 
+
 The scatter plots are made to find the relationship of the various variables such as the Age, BMI and obesity duration. The figures show that there is no association or relationship between these variables
 
 Similarly scatter plots are also made to find the relationship of clinical characteristics such as ALT and AST which are increased during the liver disease with the variable of Age, BMI and Obesity Duration. No association or relationship was observed. 
