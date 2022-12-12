@@ -1,0 +1,6 @@
+This directory consists of the code written to conduct data cleaning, data manipulation, visualization and statistical analysis of the data which was done using Google colaboratory notebook by using python.
+Various python libraries such as Pandas, Seaborn, Matplotlib and Scripy were used to analyse the data.
+The data cleaning and manipulation consisted of removing any null values in the data set and converting those values to zero. Data manipulation was done to create new columns in order to perform thorough analysis of the data.
+The data visualization consisted of visually analysing the data and finding if any of the two variables are related to each other
+Statistical programming included development of probabiliby matrices to compare the likelihood of developing liver steatosi due to diabetes, hypertension, hyperlipidemia and metabolic syndrome.
+Futher statistical analysis was also done by using various statistical tests such as normalitiy tests, Levene's test for equal variance, Chi square test and Mann Whitney U test to find the association of diabetes, hypertension, hyperlipidemia and metabolic syndrome and liver steatosis and fiborsis and also the clinical characteristics of patients.
